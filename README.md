@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Fouzan!
 
-<!--
-**fouzan2006/fouzan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year BTech Computer Science student with a strong interest in software development, AI, and web technologies. I'm on a journey to build real-world tech solutions while continuously learning and growing.
 
-Here are some ideas to get you started:
+## 🔧 Skills I'm Learning
+- Python (Basics, Logic Building)
+- C Programming (Problem Solving)
+- HTML & CSS (Web Page Creation)
+- Git & GitHub
+- Basic Linux & Networking Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 Projects & Ideas
+- **AI-based Online Proctoring Software** – Micro project using automation and AI concepts (A concept)
+- **Simple HTML Web Pages** – Learning and practicing web structure, headings, and layout
+- **Mini C Programs** – Small console apps from coursework and practice
+
+
+## 🧠 Goals
+- Improve my coding confidence
+- Learn full-stack web development
+- Dive into computer hardware and processor design in the future
+
+
+## 📫 Contact Me
+- Email me – mfouzan90@gmail.com
+- LinkedIn –   https://www.linkedin.com/in/fouzzan
+
+Thanks for visiting my profile 
