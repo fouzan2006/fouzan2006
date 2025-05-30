@@ -3,9 +3,11 @@
 I'm a first-year BTech Computer Science student with a strong interest in software development, AI, and web technologies. I'm on a journey to build real-world tech solutions while continuously learning and growing.
 
 ## 🔧 Skills I'm Learning
-- Python (Basics, Logic Building)
-- C Programming (Problem Solving)
+- Python 
+- C Programming (
 - HTML & CSS (Web Page Creation)
+- JavaScript
+- App Development
 - Git & GitHub
 - Basic Linux & Networking Concepts
 
