@@ -1,15 +1,17 @@
 # Hi there 👋, I'm Fouzan!
 
-I'm a first-year BTech Computer Science student with a strong interest in software development, AI, and web technologies. I'm on a journey to build real-world tech solutions while continuously learning and growing.
+I'm a second year BTech Computer Science student with a strong interest in software development, AI, and web technologies. I'm on a journey to build real-world tech solutions while continuously learning and growing.
 
 ## 🔧 Skills I'm Learning
+- java
+- Data structures
 - Python 
 - C Programming (
 - HTML & CSS (Web Page Creation)
 - JavaScript
 - App Development
 - Git & GitHub
-- Basic Linux & Networking Concepts
+- Linux & Networking
 
 
 
