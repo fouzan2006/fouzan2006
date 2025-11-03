@@ -12,6 +12,7 @@ I'm a second year BTech Computer Science student with a strong interest in softw
 - App Development
 - Git & GitHub
 - Linux & Networking
+- Cybersecurity 
 
 
 
